@@ -1,0 +1,12 @@
+.font-dm_sans {
+  font-family: 'DM Sans', sans-serif;
+}
+
+.slick-track {
+  display: flex !important;
+  float: left !important;
+}
+
+.slick-slide {
+  height: auto;
+}
